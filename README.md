@@ -1,7 +1,7 @@
 ## Hi, I’m @Chariot or James!
 Welcome to my page!
 
-Computer Science Student @ GSU
+I build things that make people happy or their days easier...
 
 See what I am working on or have worked on.<br>
 
